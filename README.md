@@ -11,7 +11,7 @@ no, wurst+2 contains none of this code, join the wurst+2 discord here: https://d
 ## why
 
 > shanks ace got token logged (again) and this time apprently wurst+ was leaked (again) and people told me to make the client public (again), so i made the src public instead.
-> also, the dms show that naughty (864) made a small fucktonne of this client while i was on break. i was not aware of this and never saw a penny of the money.
+> also, the dms show that naughty (864) made a small fucktonne of this client while i was on break. i was not aware off this and never saw a penny of the money.
 
 ## Installation
 
