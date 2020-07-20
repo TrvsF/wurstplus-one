@@ -1,0 +1,28 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.travis.wurstplus.mixin.client",
+  "refmap": "mixins.wurstplus.refmap.json",
+  "client": [
+    "MixinGuiChat",
+    "MixinGuiNewChat",
+    "MixinNetworkManager",
+    "MixinEntity",
+    "MixinMinecraft",
+    "MixinStateImplementation",
+    "MixinEntityRenderer",
+    "MixinEntityPlayerSP",
+    "MixinModelBoat",
+    "MixinBlockSoulSand",
+    "MixinEntityPig",
+    "MixinGuiPlayerTabOverlay",
+    "MixinGuiScreen",
+    "MixinBlockLiquid",
+    "MixinRenderPlayer",
+    "MixinC00Handshake",
+    "MixinNetHandlerPlayClient",
+    "MixinPlayerControllerMP",
+    "MixinAbstractClientPlayer",
+    "MixinEntityLlama"
+  ]
+}
