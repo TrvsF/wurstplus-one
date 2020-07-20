@@ -1,7 +1,6 @@
 # ☣️ WARNING ☣️ SHITTY KAMI PASTE AHEAD ☣️
 
-no, wurst+2 contains none of this code
-join the wurst+2 discord here: https://discord.gg/SKDTQJn
+no, wurst+2 contains none of this code, join the wurst+2 discord here: https://discord.gg/SKDTQJn
 
 ## what
 
